@@ -1,0 +1,41 @@
+ @import url("");
+ {
+     height: 100vh;
+     background-color: #efefef;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ #player {
+     background-colo: white;
+     Width: 90%;
+     max-width: 375px;
+     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 3px 1px 0px rgba(56, 86, 215, 1);
+ }
+ 
+ .card {
+     box-shadow: nome;
+     margin: auto;
+ }
+ 
+ h4 {
+     color: #7159c1;
+     font-size: 20px;
+     font-weight: bold;
+     margin: 0;
+     display: flex;
+     align-items: left;
+     justify-content: center;
+     padding: 12px;
+ }
+ 
+ .card-image {
+     background: url("")no-repeat center center / cover;
+     height: 200 px;
+ }
+ 
+ audio {
+     width: 100%;
+     margin-top: 30px;
+ }
